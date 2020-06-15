@@ -1,0 +1,21 @@
+#myImage {
+  width: 30%;
+  height: 60%;
+  color: white;
+  /* margin-bottom: 10%; */
+  margin-left: 44%;
+  content: url("https://projecthora.s3-us-west-1.amazonaws.com/20200326_205907.jpg");
+
+  border-radius: 60%;
+}
+
+#portfolioImage {
+  position: absolute;
+  margin-top: 5%;
+  width: 80%;
+  height: 80%;
+  background-color: black;
+  font: poppins;
+  color: whitesmoke;
+  transition: all 0.5s linear;
+}

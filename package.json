@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonam1975/portfolio.git"
+  },
+  "author": "Sonam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonam1975/portfolio/issues"
+  },
+  "homepage": "https://github.com/sonam1975/portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

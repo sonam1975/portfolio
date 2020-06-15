@@ -1,0 +1,21 @@
+.aboutMe {
+  margin-left: 10%;
+}
+p {
+  font-size: larger;
+}
+#aboutImage {
+  position: absolute;
+  content: url("https://projecthora.s3-us-west-1.amazonaws.com/20200326_205907.jpg");
+  width: 20%;
+  height: 30%;
+  left: 60%;
+}
+
+#image {
+  width: 100%;
+}
+
+.aboutInfo {
+  font-size: larger;
+}

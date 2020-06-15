@@ -1,0 +1,21 @@
+.row {
+  margin-left: 10%;
+}
+.column {
+  float: left;
+  width: 33.33%;
+
+  margin-top: 10%;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.linkName {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 260%;
+  padding: 15% 8%;
+}
